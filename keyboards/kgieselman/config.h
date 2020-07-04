@@ -61,6 +61,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * @todo Verify which overrides I want
  */
 //#define GRAVE_ESC_CTRL_OVERRIDE
+#define GRAVE_ESC_ALT_OVERRIDE
+#define GRAVE_ESC_GUI_OVERRIDE
+#define GRAVE_ESC_SHIFT_OVERRIDE
 
 /*
  * Magic Key Options
